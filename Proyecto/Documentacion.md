@@ -1,6 +1,6 @@
 # MP14-Raspberry Grup4
 
-
+![Raspberry Pi](capturas/raspberry-pi-1.jpg)
 
 ## Descripción del Proyecto
 El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberry Pi que permita controlar dispositivos conectados a través de la plataforma IoT. La aplicación se encargará de gestionar la comunicación con los dispositivos, así como de proporcionar una interfaz de usuario para el control remoto.
