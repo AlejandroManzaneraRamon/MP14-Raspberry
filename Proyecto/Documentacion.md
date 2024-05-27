@@ -26,3 +26,14 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 
 - **Desarrollar una interfaz de usuario**: Crear una interfaz de usuario intuitiva y fácil de usar para controlar y monitorear los dispositivos y sensores de la casa domótica desde un dispositivo móvil o una computadora.
 
+## Instalacion Raspberry
+
+### Requisitos instalacion
+
+- **Camara**
+- **Sensor movimiento**
+- **Sensor temperatura**
+- **Raspberry**
+- **Teclado/raton**
+- **Mini hdmi**
+- **Cables alimentacion**
