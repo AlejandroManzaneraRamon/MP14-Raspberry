@@ -61,5 +61,62 @@ Per a fer us de la maquina hem tingut que fer servir el codi següent
 Com a resultat de el codi anterior ens proporciona un fitxer anomenat 
 
 
+## Sensor de temperatura y humedad
+
+El script seria el siguiente:
+
+```python
+# Complete Project Details: https://RandomNerdTutorials.com/raspberry-pi-dht11-dht22-python/
+# Based on Adafruit_CircuitPython_DHT Library Example
+
+import time
+import board
+import adafruit_dht
+
+# Sensor data pin is connected to GPIO 4
+#sensor = adafruit_dht.DHT22(board.D4)
+# Uncomment for DHT11
+sensor = adafruit_dht.DHT11(board.D23)
+
+while True:
+    try:
+        # Print the values to the serial port
+        temperature_c = sensor.temperature
+        temperature_f = temperature_c * (9 / 5) + 32
+        humidity = sensor.humidity
+        print("Temp={0:0.1f}ºC, Temp={1:0.1f}ºF, Humidity={2:0.1f}%".format(temperature_c, temperature_f, humidity))
+
+    except RuntimeError as error:
+        # Errors happen fairly often, DHT's are hard to read, just keep going
+        print(error.args[0])
+        time.sleep(2.0)
+        continue
+    except Exception as error:
+        sensor.exit()
+        raise error
+
+    time.sleep(3.0)
+```
 
 
+
+## Hacer foto 
+
+
+```python
+import time
+from picamera2 import Picamera2, Preview
+
+picam = Picamera2()
+
+config = picam.create_preview_configuration()
+picam.configure(config)
+
+picam.start_preview(Preview.QTGL)
+
+picam.start()
+time.sleep(5)
+picam.capture_file("test_python.jpg")
+
+picam.close()
+```
