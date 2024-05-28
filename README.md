@@ -240,5 +240,9 @@ El fitxer .csv es veuria aixi:
 | 2024-05-13 22:02:36.071852  | 25               | 77.0             | 39          |
 | 2024-05-13 22:02:39.325977  | 25               | 77.0             | 39          |
 
+I el fitxer .html que s'ha creat es el següent:
+
+<img src="capturas/Captura.PNG" width="500">
+
 
 
