@@ -47,6 +47,10 @@ Una vez tengamos la raspberry en marcha podriamos conectar el teclado y raton pa
 el sitio
 <img src="capturas/20240527_211104.jpg" width="500">
 
+Y por ultimo tendriamos el extensor donde tendriamos lo tendriamos conectado a nuestra raspberry, con el extensor puesto podremos conectar el detector de humedad y temperatura como se puede apreciar en las fotos.
+<img src="capturas/20240527_211115.jpg" width="500">
+
+
 
 
 
