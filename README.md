@@ -215,7 +215,7 @@ webbrowser.open("file://" + nombre_html)
 ```
 Aquest script en Python recull dades de temperatura i humitat d'un sensor DHT11 connectat a una Raspberry Pi durant un període de temps específic, i després les emmagatzema en un fitxer CSV. A continuació, genera un gràfic amb les dades recollides i el mostra en un navegador web.
 
-Primer, importa les biblioteques necessàries, incloent time, datetime, board, adafruit_dht per interactuar amb el sensor DHT11, csv per gestionar fitxers CSV, os.path per expandir la ruta d'accés al directori d'inici de l'usuari, matplotlib.pyplot per fer gràfics de les dades, i mpld3 per convertir el gràfic de Matplotlib a HTML interactiu.
+Primer, importa les biblioteques necessàries, incloent `time`, `datetime`, `board`, `adafruit_dht` per interactuar amb el sensor DHT11, csv per gestionar fitxers CSV, os.path per expandir la ruta d'accés al directori d'inici de l'usuari, `matplotlib.pyplot` per fer gràfics de les dades, i `mpld3` per convertir el gràfic de Matplotlib a HTML interactiu.
 
 Llavors, configura el pin al qual està connectat el sensor DHT11 a la Raspberry Pi i crea una llista per emmagatzemar les dades recollides. També estableix el temps màxim de recollida de dades.
 
