@@ -41,13 +41,16 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 ### Instalacion fisica Raspberry
 
 Lo principal seria conecatar el cable de alimentacion y el cable HDMI para poder tener video y asi poder hacer el proyecto.
+
 <img src="capturas/20240527_211123.jpg" width="500">
 
 Una vez tengamos la raspberry en marcha podriamos conectar el teclado y raton para poder desplazarnos por la raspberry y luegoel cable de red para poder obtener conexion a internet. Tambien se podria observar como esta la camara conectada en 
 el sitio
+
 <img src="capturas/20240527_211104.jpg" width="500">
 
 Y por ultimo tendriamos el extensor donde tendriamos lo tendriamos conectado a nuestra raspberry, con el extensor puesto podremos conectar el detector de humedad y temperatura como se puede apreciar en las fotos.
+
 <img src="capturas/20240527_211115.jpg" width="500">
 
 
