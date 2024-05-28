@@ -38,7 +38,7 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 - **Mini hdmi**
 - **Cables alimentacion**
 
-##Instalacion fisica Raspberry
+### Instalacion fisica Raspberry
 
 Lo principal seria conecatar el cable de alimentacion y el cable HDMI para poder tener video y asi poder hacer el proyecto.
 <img src="capturas/20240527_211123.jpg" width="500">
