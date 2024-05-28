@@ -37,3 +37,8 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 - **Teclado/raton**
 - **Mini hdmi**
 - **Cables alimentacion**
+
+###Instalacion fisica Raspberry
+![Hola(capturas/20240527_211104.jpg)
+
+
