@@ -40,4 +40,13 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 
 ###Instalacion fisica Raspberry
 
+Lo principal seria conecatar el cable de alimentacion y el cable HDMI para poder tener video y asi poder hacer el proyecto.
+![Raspberry Pi](capturas/20240527_211123.jpg)
+
+Una vez tengamos la raspberry en marcha podriamos conectar el teclado y raton para poder desplazarnos por la raspberry y luegoel cable de red para poder obtener conexion a internet. Tambien se podria observar como esta la camara conectada en 
+el sitio
 ![Raspberry Pi](capturas/20240527_211104.jpg)
+
+
+
+
