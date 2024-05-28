@@ -53,6 +53,10 @@ Y por ultimo tendriamos el extensor donde tendriamos lo tendriamos conectado a n
 
 <img src="capturas/20240527_211115.jpg" width="500">
 
+## Càmara Raspberry
+Per a fer us de la maquina hem tingut que fer servir el codi següent
+<img src="capturas/captura_script_hacefoto" width="500">
+
 
 
 
