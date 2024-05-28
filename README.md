@@ -39,6 +39,5 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 - **Cables alimentacion**
 
 ###Instalacion fisica Raspberry
-![Hola(capturas/20240527_211104.jpg)
 
-
+![Raspberry Pi](capturas/20240527_211104.jpg)
