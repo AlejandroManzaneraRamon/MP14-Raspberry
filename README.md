@@ -26,6 +26,34 @@ El proyecto MP14-Raspberry consiste en desarrollar una aplicación para Raspberr
 
 - **Desarrollar una interfaz de usuario**: Crear una interfaz de usuario intuitiva y fácil de usar para controlar y monitorear los dispositivos y sensores de la casa domótica desde un dispositivo móvil o una computadora.
 
+## Material Necesario
+
+Para este segundo proyecto vamos a necesitar los siguientes componentes:
+
+### Raspberry 4
+
+El Raspberry Pi 4 es una herramienta poderosa y flexible, ideal tanto para principiantes en la programación y la electrónica como para profesionales que buscan una plataforma compacta para proyectos avanzados. Su combinación de rendimiento, conectividad y precio lo hace una opción atractiva para una amplia gama de aplicaciones
+
+<img src="capturas/Raspberry.png" width="500">
+
+### Cámara Raspberry
+
+Una cámara para Raspberry Pi 4 permite añadir capacidades de captura de imágenes y video a los proyectos.
+En nuestro caso nos vendrá bien para poder hacer fotos o videos de lo que esté pasando a nuestro alrededor
+
+<img src="capturas/Camara-raspberry.png" width="500">
+
+### Sensor Humedad y Temperatura
+
+El sensor DHT11 es una excelente opción para medir temperatura y humedad con la Raspberry Pi 4, ofreciendo una combinación de precisión, facilidad de uso y costo efectividad
+Lo utilizaremos para poder medir la temperatura y la humedad de una sala en caso de incendio o para poder regular la temperatura con un ventilador o equivalente
+
+<img src="capturas/DHT11.png" width="500">
+
+### Sensor de movimiento
+
+<img src="capturas/moviemiento-raspberry-pi.png" width="500">
+
 ## Instalacion Raspberry
 
 ## Requisitos instalacion
