@@ -48,23 +48,26 @@ En nuestro caso nos vendrá bien para poder hacer fotos o videos de lo que esté
 El sensor DHT11 es una excelente opción para medir temperatura y humedad con la Raspberry Pi 4, ofreciendo una combinación de precisión, facilidad de uso y costo efectividad
 Lo utilizaremos para poder medir la temperatura y la humedad de una sala en caso de incendio o para poder regular la temperatura con un ventilador o equivalente
 
-<img src="capturas/DHT11.png" width="500">
+<img src="capturas/DHT11.png" width="350">
 
 ### Sensor de movimiento
 
-<img src="capturas/moviemiento-raspberry-pi.png" width="500">
+Un sensor de movimiento comúnmente usado con la Raspberry Pi 4 es el sensor PIR (Passive Infrared). Este sensor detecta movimiento basándose en los cambios en los niveles de infrarrojos en su entorno
+Un sensor de movimiento nos vendra muy bien a la hora se hacer uso de una alarma de seguridad
+
+<img src="capturas/moviemiento-raspberry-pi.png" width="400">
 
 ## Instalacion Raspberry
 
 ## Requisitos instalacion
 
-- **Camara**
+- **Cámara**
 - **Sensor movimiento**
 - **Sensor temperatura**
 - **Raspberry**
-- **Teclado/raton**
+- **Teclado/ratón**
 - **Mini hdmi**
-- **Cables alimentacion**
+- **Cables alimentación**
 
 ### Instalacion fisica Raspberry
 
